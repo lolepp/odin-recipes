@@ -1,0 +1,80 @@
+h1 {
+    background-color: rgb(220, 190, 190);
+    text-align: center;
+    color:rgb(70, 0, 0);
+}
+h3 {
+    background-color: rgb(210, 210, 210);
+    color: rgb(0, 0, 100);
+    text-align: center;
+    font-size: 20px;
+}
+img {
+    height: 300px;
+    width: auto;
+}
+body {
+    font-size: 16px;
+    font-family: Helvetica, sans-serif, Arial;
+}
+#desc {
+    color:rgb(69, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+a {
+    color: rgb(240,120,120);
+    font-size: 20px;
+}
+#breast {
+    color: rgb(125, 75, 30);
+}
+#rice {
+    color: hsl(20,30%,50%);
+}
+#chili {
+    color: rgb(187, 0, 0);
+}
+#tomato-sauce {
+    color: rgb(120, 15, 15);
+}
+#onion {
+    color: rgb(200, 140, 80);
+}
+#broccoli {
+    color: rgb(5, 105, 5);
+}
+#one {
+    color: rgb(0, 0, 0)
+}
+#two {
+    color: rgb(0, 10, 64)
+}
+#three {
+    color: rgb(0, 20, 128)
+}
+#four {
+    color: rgb(0, 30, 194)
+}
+#five {
+    color: rgb(0, 40, 255)
+}
+#six {
+    color: rgb(0, 60, 255)
+}
+#seven {
+    color: rgb(0, 80, 255)
+}
+#eight {
+    color: rgb(0, 100, 255)
+}
+#nine {
+    color: rgb(0,120,255)
+}
+#ten {
+    color: rgb(0,140,255)
+}
+#eleven {
+    color: rgb(20,160,255)
+}

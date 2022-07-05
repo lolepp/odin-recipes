@@ -1,0 +1,41 @@
+#chili {
+    height: 19px;
+    width: auto;
+}
+.Cheese-cake,
+.Duck,
+.Sushi {
+    font-size: 21px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+button {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(75, 0, 150);
+}
+body {
+    font-size: 18px;
+    font-family: Helvetica, sans-serif, Arial;
+}
+.Cheese-cake{
+    color: rgb(210, 160, 10);
+}
+.Duck {
+    color: rgb(125, 75, 30);
+}
+.Sushi {
+    color: rgb(218, 128, 120);
+}
+.heading-top {
+    color:hsl(187, 30%, 30%);
+    text-align: center;
+    background-color: rgb(187, 230, 240);
+}
+.headings {
+    color:hsl(222, 70%, 15%);
+    background-color: rgb(230, 250, 255);
+}
+#ricardo-milos {
+    height: 400px;
+    width: auto;
+}
